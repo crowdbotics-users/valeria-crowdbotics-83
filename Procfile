@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT valeria_crowdbotics_83.wsgi:application
